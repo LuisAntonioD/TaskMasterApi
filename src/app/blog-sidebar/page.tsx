@@ -84,7 +84,7 @@ const BlogSidebarPage = () => {
                             Not Found		
                           </td>
                           <td className="px-6 py-4">
-                            The requested resource doesn't exist.
+                            The requested resource doesnt exist.
 
                           </td>
                           
@@ -191,7 +191,7 @@ const BlogSidebarPage = () => {
                             String
                           </td>
                           <td className="px-6 py-4">
-                            The status of the character ('Active' or 'Inactive').
+                            The status of the character (Active or Inactive).
 
                           </td>
                           
