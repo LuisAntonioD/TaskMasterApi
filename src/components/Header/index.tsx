@@ -64,7 +64,7 @@ const Header = () => {
                   className="w-full dark:hidden"
                 />
                 <Image
-                  src="/images/logo/logo.svg"
+                  src="/images/logo/TM_CON_LETRA.png"
                   alt="logo"
                   width={140}
                   height={30}

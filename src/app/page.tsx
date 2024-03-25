@@ -12,7 +12,7 @@ import Video from "@/components/Video";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Documentación de nuestra api",
+  title: "Home - TaskMaster",
   description: "Hola",
   // other metadata
 };
