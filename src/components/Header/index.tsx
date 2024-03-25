@@ -57,7 +57,7 @@ const Header = () => {
                 } `}
               >
                 <Image
-                  src="/images/logo/logo-2.svg"
+                  src="/images/logo/TM_CON_LETRA_NEGRA.png"
                   alt="logo"
                   width={140}
                   height={30}
