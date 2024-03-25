@@ -26,9 +26,7 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # local env files
-#.env*.local
-# Ignorar el archivo .env ya que contiene información sencible
-.env
+.env*.local
 
 # vercel
 .vercel
