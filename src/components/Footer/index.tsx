@@ -27,8 +27,8 @@ const Footer = () => {
                   />
                 </Link>
                 <p className="mb-9 text-base leading-relaxed text-body-color dark:text-body-color-dark">
-                  App creada sin fines de lucro
-                  optima para pruebas en desarrollo backend.
+                  Non-profit app created optimal for
+                  testing in backend development.
                 </p>
                 
               </div>
