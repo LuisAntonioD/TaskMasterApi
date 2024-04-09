@@ -15,22 +15,22 @@ const Hero = () => {
                   TaskMaster API
                 </h1>
                 <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
-                  Nuestra api es gratis y la puedes usar para fines edicativos,
-                  puedes hacer pruebas en un entorno controlado como desarrollador 
-                  y probar todas las funcionalidades. 
+                  Our API is free and you can use it for educational purposes,
+                  you can test in a controlled environment as a developer
+                  and test all the features. 
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
                     href="/about"
                     className="rounded-sm bg-primary px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
                   >
-                    📒 Leer Documentación
+                    📒 Read Documentation
                   </Link>
                   <Link
                     href="https://github.com/Ricolin2653M/proyecto"
                     className="inline-block rounded-sm bg-black px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-black/90 dark:bg-white/10 dark:text-white dark:hover:bg-white/5"
                   >
-                    Ver en GitHub
+                  View on GitHub
                   </Link>
                 </div>
               </div>
