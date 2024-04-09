@@ -5,7 +5,7 @@ const blogData: Blog[] = [
     id: 1,
     title: "Update Task",
     paragraph:
-      "Aqui vas a poder actualizar datos de una tarea.",
+      "Here you will be able to update data for a task.",
     image: "/images/blog/blog-01.jpg",
     author: {
       name: "Samuyl Joshi",
@@ -19,7 +19,7 @@ const blogData: Blog[] = [
     id: 2,
     title: "Create Task",
     paragraph:
-      "Aqui vas a poder crear una tarea.",
+      "Here you will be able to create a task.",
     image: "/images/blog/blog-02.jpg",
     author: {
       name: "Musharof Chy",
@@ -33,7 +33,7 @@ const blogData: Blog[] = [
     id: 3,
     title: "Get only Task",
     paragraph:
-      "Aqui vas a poder probrar traer información de una sola tarea.",
+      "Here you will be able to try bringing information from a single task.",
     image: "/images/blog/blog-03.jpg",
     author: {
       name: "Lethium Deo",
@@ -47,7 +47,7 @@ const blogData: Blog[] = [
     id: 4,
     title: "Get Tasks",
     paragraph:
-      "Aqui vas a poder testear todas nuetras tareas activas.",
+      "Here you will be able to test all our active tasks.",
     image: "/images/blog/blog-03.jpg",
     author: {
       name: "Lethium Deo",
@@ -61,7 +61,7 @@ const blogData: Blog[] = [
     id: 5,
     title: "Delete Tasks",
     paragraph:
-      "Aqui vas a poder eliminar una tarea en especiifico.",
+      "Here you will be able to delete a specific task.",
     image: "/images/blog/blog-03.jpg",
     author: {
       name: "Lethium Deo",
