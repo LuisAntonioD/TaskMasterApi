@@ -585,7 +585,7 @@ const BlogSidebarPage = () => {
                     </span>
                   </div>
 
-                  <p className="mt-20">Response code : <code className="text-amber-300"> 404	</code></p>
+                  <p className="mt-20">Response code : <code className="text-amber-500"> 404	</code></p>
                   <p> &nbsp; </p>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
@@ -603,9 +603,6 @@ const BlogSidebarPage = () => {
     }
   `}
                     </pre>
-                    
-                    
-
                     <span className="absolute left-0 top-0 z-[-1]">
                       <svg
                         width="132"
@@ -767,9 +764,6 @@ const BlogSidebarPage = () => {
     }
   `}
                     </pre>
-                    
-                    
-
                     <span className="absolute left-0 top-0 z-[-1]">
                       <svg
                         width="132"
@@ -1286,7 +1280,7 @@ const BlogSidebarPage = () => {
                       </svg>
                     </span>
                   </div>
-                  <p className="mt-20">Response code : <code className="text-amber-300"> 404	</code></p>
+                  <p className="mt-20">Response code : <code className="text-amber-500"> 404	</code></p>
                   <p> &nbsp; </p>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
@@ -1991,7 +1985,7 @@ const BlogSidebarPage = () => {
                     </span>
                   </div>
 
-                  <p className="mt-20">Response code : <code className="text-amber-300"> 404	</code></p>
+                  <p className="mt-20">Response code : <code className="text-amber-500"> 404	</code></p>
                   <p> &nbsp; </p>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
@@ -2667,7 +2661,7 @@ const BlogSidebarPage = () => {
                     </span>
                   </div>
 
-                  <p className="mt-20">Response code : <code className="text-amber-300"> 404</code></p>
+                  <p className="mt-20">Response code : <code className="text-amber-500"> 404</code></p>
                   <p> &nbsp; </p>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
@@ -4085,7 +4079,7 @@ const BlogSidebarPage = () => {
                   </div>
 
 
-                  <p className="mt-20">Response code : <code className="text-amber-300"> 404 </code></p>
+                  <p className="mt-20">Response code : <code className="text-amber-500"> 404 </code></p>
                   <p> &nbsp; </p>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
@@ -4916,7 +4910,7 @@ const BlogSidebarPage = () => {
                     </span>
                   </div>
                   
-                  <p className="mt-20">Response code : <code className="text-red-500"> 403 </code></p>
+                  <p className="mt-20">Response code : <code className="text-amber-300"> 403 </code></p>
                   <p> &nbsp; </p>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
@@ -5576,7 +5570,7 @@ const BlogSidebarPage = () => {
                     </span>
                   </div>
 
-                  <p className="mt-20">Response code : <code className="text-red-500"> 403 </code></p>
+                  <p className="mt-20">Response code : <code className="text-amber-300"> 403 </code></p>
                   <p> &nbsp; </p>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
@@ -5736,7 +5730,7 @@ const BlogSidebarPage = () => {
                     </span>
                   </div>
 
-                  <p className="mt-20">Response code : <code className="text-red-500"> 404 </code></p>
+                  <p className="mt-20">Response code : <code className="text-amber-500"> 404 </code></p>
                   <p> &nbsp; </p>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
@@ -6248,9 +6242,6 @@ const BlogSidebarPage = () => {
 
   `}
                     </pre>
-                    
-                    
-
                     <span className="absolute left-0 top-0 z-[-1]">
                       <svg
                         width="132"
@@ -6874,7 +6865,7 @@ const BlogSidebarPage = () => {
                     </span>
                   </div>
 
-                  <p className="mt-20">Response code : <code className="text-red-500"> 404 </code></p>
+                  <p className="mt-20">Response code : <code className="text-amber-500"> 404 </code></p>
                   <p> &nbsp; </p>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
