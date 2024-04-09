@@ -2405,13 +2405,6 @@ const BlogSidebarPage = () => {
       "username": "taskmasterapi",
       "password": "123",
       "email": "taskmasterapi@gmail.com",
-
-      /*
-        Los roles son opcionales se puede dejar el array vacio 
-        o no poner roles le asiganra un usuario normal por defecto
-
-      */
-
       "roles": [
           "admin",
           "moderador"
@@ -4411,7 +4404,7 @@ const BlogSidebarPage = () => {
                     "dateEnd": "2024-03-25T15:00:00.000Z",
                     "status": "Pendiente",
                     "users": [
-                      "6600e8b424649ebcc944a512"  // ID de un usuario relacionado
+                      "ID_USER" 
                     ]
                   }`}
                     </pre>
