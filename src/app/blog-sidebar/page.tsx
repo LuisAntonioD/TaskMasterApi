@@ -224,15 +224,13 @@ const BlogSidebarPage = () => {
                   <p> &nbsp; </p>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
-                  <a
-                      href="https://api-rest-cyan.vercel.app/api/tasks"
+                  <a target="_blank"
+                      href="https://apitaskmaster.vercel.app/api/task"
                       className="inline-flex items-center justify-center rounded-full bg-green-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       GET - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/tasks
+                    </a>https://apitaskmaster.vercel.app/api/task
                   </code>
-                    
-
                     <span className="absolute left-0 top-0 z-[-1]">
                       <svg
                         width="132"
@@ -380,12 +378,12 @@ const BlogSidebarPage = () => {
                   <p> &nbsp; </p>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
-                  <a
-                      href="https://api-rest-cyan.vercel.app/api/tasks"
+                  <a target="_blank"
+                      href="https://apitaskmaster.vercel.app/api/task"
                       className="inline-flex items-center justify-center rounded-full bg-green-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       GET - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/tasks
+                    </a>https://apitaskmaster.vercel.app/api/task
                   </code>
                     
                     
@@ -589,12 +587,12 @@ const BlogSidebarPage = () => {
                   <p> &nbsp; </p>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
-                  <a
-                      href="https://api-rest-cyan.vercel.app/api/tasks"
+                  <a target="_blank"
+                      href="https://apitaskmaster.vercel.app/api/task"
                       className="inline-flex items-center justify-center rounded-full bg-green-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       GET - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/tasks
+                    </a>https://apitaskmaster.vercel.app/api/task
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
@@ -750,12 +748,12 @@ const BlogSidebarPage = () => {
                   <p> &nbsp; </p>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
-                  <a
-                      href="https://api-rest-cyan.vercel.app/api/tasks"
+                  <a target="_blank"
+                      href="https://apitaskmaster.vercel.app/api/task"
                       className="inline-flex items-center justify-center rounded-full bg-green-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       GET - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/tasks
+                    </a>https://apitaskmaster.vercel.app/api/task
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
@@ -917,12 +915,12 @@ const BlogSidebarPage = () => {
                   <p> &nbsp; </p>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
-                  <a
-                      href="https://api-rest-cyan.vercel.app/api/taskuser:TaskUserID"
+                  <a target="_blank"
+                      href="https://apitaskmaster.vercel.app/api/taskuser/user/65efbe9f806e516ae61f93f2"
                       className="inline-flex items-center justify-center rounded-full bg-green-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       GET - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/taskuser:TaskUserID
+                    </a>https://apitaskmaster.vercel.app/api/taskuser/user/userID
                   </code>
                   
 
@@ -1067,21 +1065,16 @@ const BlogSidebarPage = () => {
                       </svg>
                     </span>
                   </div>
-                  
-
-
-                  
-
                   <p className="mt-20">Response code : <code className="text-green-500"> 200</code></p>
                   <p> &nbsp; </p>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
-                  <a
-                      href="https://api-rest-cyan.vercel.app/api/taskuser:TaskUserID"
+                  <a target="_blank"
+                      href="https://apitaskmaster.vercel.app/api/taskuser/user/65efbe9f806e516ae61f93f2"
                       className="inline-flex items-center justify-center rounded-full bg-green-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       GET - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/taskuser:TaskUserID
+                    </a>https://apitaskmaster.vercel.app/api/taskuser/user/userID
                   </code>
                     
                     
@@ -1137,8 +1130,6 @@ const BlogSidebarPage = () => {
   ]
   `}
                     </pre>
-                    
-
                     <span className="absolute left-0 top-0 z-[-1]">
                       <svg
                         width="132"
@@ -1280,12 +1271,13 @@ const BlogSidebarPage = () => {
                       </svg>
                     </span>
                   </div>
+
                   <p className="mt-20">Response code : <code className="text-amber-500"> 404	</code></p>
                   <p> &nbsp; </p>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
-                  <a
-                      href="https://api-rest-cyan.vercel.app/api/taskuser:TaskUserID"
+                  <a target="_blank"
+                      href="https://apitaskmaster.vercel.app/api/taskuser/user/6611f1684f7d79ae33b8d60d"
                       className="inline-flex items-center justify-center rounded-full bg-green-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       GET - Taste
@@ -1294,13 +1286,10 @@ const BlogSidebarPage = () => {
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
     {
-      "No se encontrarón tareas asignadas a este usuario"
+      "message" : "No se encontrarón tareas asignadas a este usuario"
     }
   `}
                     </pre>
-                    
-                    
-
                     <span className="absolute left-0 top-0 z-[-1]">
                       <svg
                         width="132"
@@ -1442,23 +1431,22 @@ const BlogSidebarPage = () => {
                       </svg>
                     </span>
                   </div>
-
 
                   <p className="mt-20">Response code : <code className="text-red-500"> 500, 501, 502, 503, 504	</code></p>
                   <p> &nbsp; </p>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
-                  <a
-                      href="https://api-rest-cyan.vercel.app/api/taskuser:TaskUserID"
+                  <a target="_blank"
+                      href="https://apitaskmaster.vercel.app/api/taskuser/user/6611f1684f7d79ae33b8d60d"
                       className="inline-flex items-center justify-center rounded-full bg-green-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       GET - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/taskuser:TaskUserID
+                    </a>https://apitaskmaster.vercel.app/api/taskuser/user/userID
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
     {
-      "Error interno del servidor"
+      "message" :"Error interno del servidor"
     }
   `}
                     </pre>
@@ -1606,12 +1594,6 @@ const BlogSidebarPage = () => {
                       </svg>
                     </span>
                   </div>
-
-
-
-
-
-
 
                   <h1 className="mt-20 mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight flex justify-center items-center ">
                     Get tasks by id
@@ -1623,12 +1605,12 @@ const BlogSidebarPage = () => {
                   <p> &nbsp; </p>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
-                  <a
-                      href="https://api-rest-cyan.vercel.app/api/tasks"
+                  <a target="_blank"
+                      href="https://apitaskmaster.vercel.app/api/task/6611f1684f7d79ae33b8d60d"
                       className="inline-flex items-center justify-center rounded-full bg-green-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       GET - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/tasks/taskId
+                    </a>https://apitaskmaster.vercel.app/api/task/taskId
                   </code>
                     
 
@@ -1774,17 +1756,16 @@ const BlogSidebarPage = () => {
                     </span>
                   </div>
 
-
                   <p className="mt-20">Response code : <code className="text-green-500"> 200</code></p>
                   <p> &nbsp; </p>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
-                  <a
-                      href="https://api-rest-cyan.vercel.app/api/tasks"
+                  <a target="_blank"
+                      href="https://apitaskmaster.vercel.app/api/task/"
                       className="inline-flex items-center justify-center rounded-full bg-green-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       GET - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/tasks/taskId
+                    </a>https://apitaskmaster.vercel.app/api/task/taskId
                   </code>
                     
                     
@@ -1989,23 +1970,20 @@ const BlogSidebarPage = () => {
                   <p> &nbsp; </p>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
-                  <a
-                      href="https://api-rest-cyan.vercel.app/api/tasks"
+                  <a target="_blank"
+                      href="https://apitaskmaster.vercel.app/api/task/6611f1684f7d79ae33b8d60f"
                       className="inline-flex items-center justify-center rounded-full bg-green-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       GET - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/tasks/taskId
+                    </a>https://apitaskmaster.vercel.app/api/task/taskId
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
     {
-      "Tarea no encontrada"
+      "message" :"Tarea no encontrada"
     }
   `}
                     </pre>
-                    
-                    
-
                     <span className="absolute left-0 top-0 z-[-1]">
                       <svg
                         width="132"
@@ -2153,23 +2131,20 @@ const BlogSidebarPage = () => {
                   <p> &nbsp; </p>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
-                  <a
-                      href="https://api-rest-cyan.vercel.app/api/tasks"
+                  <a target="_blank"
+                      href="https://apitaskmaster.vercel.app/api/task/6611f1684f7d79ae33b8d60f"
                       className="inline-flex items-center justify-center rounded-full bg-green-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       GET - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/tasks/taskId
+                    </a>https://apitaskmaster.vercel.app/api/task/taskId
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
     {
-      "Error interno del servidor"
+      "message" :"Error interno del servidor"
     }
   `}
                     </pre>
-                    
-                    
-
                     <span className="absolute left-0 top-0 z-[-1]">
                       <svg
                         width="132"
@@ -2312,33 +2287,21 @@ const BlogSidebarPage = () => {
                     </span>
                   </div>
 
-
-
-
-
                   <h1 className="mt-40 mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight flex justify-center items-center ">
                     Edit the status of your task
                     
                   </h1>
                   <p className="text-xl text-center mb-5">You can access to edit the status of your task using the <code className="language-text text-blue-500">api/taskuser:taskUserID</code> endpoint.</p>
 
-
-
-
-
-                  
-
-
                   <p className="mt-20">Request:</p>
                   <p> &nbsp; </p>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/taskuser:TaskUserID"
                       className="inline-flex items-center justify-center rounded-full bg-blue-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       PUT - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/taskuser:TaskUserID
+                    </a>https://apitaskmaster.vercel.app/api/taskuser:TaskUserID
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
@@ -2352,8 +2315,6 @@ const BlogSidebarPage = () => {
       },
   `}
                     </pre>
-                    
-
                     <span className="absolute left-0 top-0 z-[-1]">
                       <svg
                         width="132"
@@ -2496,29 +2457,23 @@ const BlogSidebarPage = () => {
                     </span>
                   </div>
 
-                  
-
                   <p className="mt-20">Response code : <code className="text-green-500"> 200</code></p>
                   <p> &nbsp; </p>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/taskuser:TaskUserID"
                       className="inline-flex items-center justify-center rounded-full bg-blue-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       PUT - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/taskuser:TaskUserID
+                    </a>https://apitaskmaster.vercel.app/api/taskuser:TaskUserID
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
     {
-      "Tarea actualizada exitosamente"
+      "message" :"Tarea actualizada exitosamente"
     }
   `}
                     </pre>
-                    
-                    
-
                     <span className="absolute left-0 top-0 z-[-1]">
                       <svg
                         width="132"
@@ -2666,22 +2621,19 @@ const BlogSidebarPage = () => {
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/taskuser:TaskUserID"
                       className="inline-flex items-center justify-center rounded-full bg-blue-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       PUT - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/taskuser:TaskUserID
+                    </a>https://apitaskmaster.vercel.app/api/taskuser:TaskUserID
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
     {
-      "No se encontro la tarea intenta de nuevo"
+      "message" : "No se encontro la tarea intenta de nuevo"
     }
   `}
                     </pre>
                     
-                    
-
                     <span className="absolute left-0 top-0 z-[-1]">
                       <svg
                         width="132"
@@ -2829,21 +2781,18 @@ const BlogSidebarPage = () => {
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/taskuser:TaskUserID"
                       className="inline-flex items-center justify-center rounded-full bg-blue-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       PUT - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/taskuser:TaskUserID
+                    </a>https://apitaskmaster.vercel.app/api/taskuser:TaskUserID
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
     {
-      "Error interno del servidor"
+     "message" : "Error interno del servidor"
     }
   `}
                     </pre>
-                    
-                    
 
                     <span className="absolute left-0 top-0 z-[-1]">
                       <svg
@@ -2987,8 +2936,6 @@ const BlogSidebarPage = () => {
                     </span>
                   </div>
 
-
-
                   <h1 className="mt-20 mb-3 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   </h1>
                   <h1 className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
@@ -3072,22 +3019,15 @@ const BlogSidebarPage = () => {
                   <p className="text-xl text-center mb-5">You can create a new user by sending an object like the following to <code className="language-text text-blue-500">api/auth/signup</code> endpoint.</p>
 
 
-
-
-
-                  
-
-
                   <p className="mt-20">Request:</p>
                   <p> &nbsp; </p>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/auth/signup"
                       className="inline-flex items-center justify-center rounded-full bg-amber-300 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       POST - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/auth/signup
+                    </a>https://apitaskmaster.vercel.app/api/auth/signup
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
@@ -3095,13 +3035,6 @@ const BlogSidebarPage = () => {
       "username": "taskmasterapi",
       "password": "123",
       "email": "taskmasterapi@gmail.com",
-
-      /*
-        Los roles son opcionales se puede dejar el array vacio 
-        o no poner roles le asiganra un usuario normal por defecto
-
-      */
-
       "roles": [
           "admin",
           "moderador"
@@ -3109,8 +3042,6 @@ const BlogSidebarPage = () => {
     }
   `}
                     </pre>
-                    
-                    
 
                     <span className="absolute left-0 top-0 z-[-1]">
                       <svg
@@ -3259,21 +3190,18 @@ const BlogSidebarPage = () => {
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/auth/signup"
                       className="inline-flex items-center justify-center rounded-full bg-amber-300 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       POST - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/auth/signup
+                    </a>https://apitaskmaster.vercel.app/auth/signup
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
     {
-      "Usuario registrado exitosamente"
+      "message" : "Usuario registrado exitosamente"
     }
   `}
                     </pre>
-                    
-                    
 
                     <span className="absolute left-0 top-0 z-[-1]">
                       <svg
@@ -3422,21 +3350,18 @@ const BlogSidebarPage = () => {
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/auth/signup"
                       className="inline-flex items-center justify-center rounded-full bg-amber-300 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       POST - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/auth/signup
+                    </a>https://apitaskmaster.vercel.app/api/auth/signup
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
     {
-      "Error interno del servidor"
+      "message" : "Error interno del servidor"
     }
   `}
                     </pre>
-                    
-                    
 
                     <span className="absolute left-0 top-0 z-[-1]">
                       <svg
@@ -3590,11 +3515,10 @@ const BlogSidebarPage = () => {
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/auth/signin"
                       className="inline-flex items-center justify-center rounded-full bg-amber-300 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       POST - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/auth/signin
+                    </a>https://apitaskmaster.vercel.app/api/auth/signin
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
@@ -3604,8 +3528,6 @@ const BlogSidebarPage = () => {
     }
   `}
                     </pre>
-                    
-                    
 
                     <span className="absolute left-0 top-0 z-[-1]">
                       <svg
@@ -3754,11 +3676,10 @@ const BlogSidebarPage = () => {
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/auth/signup"
                       className="inline-flex items-center justify-center rounded-full bg-amber-300 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       POST - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/auth/signup
+                    </a>https://apitaskmaster.vercel.app/api/auth/signup
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
@@ -3769,8 +3690,6 @@ const BlogSidebarPage = () => {
     
   `}
                     </pre>
-                    
-                    
 
                     <span className="absolute left-0 top-0 z-[-1]">
                       <svg
@@ -3920,21 +3839,18 @@ const BlogSidebarPage = () => {
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/auth/signup"
                       className="inline-flex items-center justify-center rounded-full bg-amber-300 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       POST - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/auth/signup
+                    </a>https://apitaskmaster.vercel.app/api/auth/signup
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
     {
-      "Contraseña invalida"
+      "message" : "Contraseña invalida"
     }
   `}
                     </pre>
-                    
-                    
 
                     <span className="absolute left-0 top-0 z-[-1]">
                       <svg
@@ -4084,21 +4000,19 @@ const BlogSidebarPage = () => {
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/auth/signup"
                       className="inline-flex items-center justify-center rounded-full bg-amber-300 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       POST - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/auth/signup
+                    </a>https://apitaskmaster.vercel.app/api/auth/signup
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
     {
-      "Usuario no encontrado"
+      "message" : "Usuario no encontrado"
     }
   `}
                     </pre>
-                    
-                    
+
 
                     <span className="absolute left-0 top-0 z-[-1]">
                       <svg
@@ -4249,21 +4163,18 @@ const BlogSidebarPage = () => {
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/auth/signup"
                       className="inline-flex items-center justify-center rounded-full bg-amber-300 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       POST - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/auth/signup
+                    </a>https://apitaskmaster.vercel.app/api/auth/signup
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
     {
-      "Error interno del servidor"
+      "message" : "Error interno del servidor"
     }
   `}
                     </pre>
-                    
-                    
 
                     <span className="absolute left-0 top-0 z-[-1]">
                       <svg
@@ -4416,11 +4327,10 @@ const BlogSidebarPage = () => {
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/auth/signup"
                       className="inline-flex items-center justify-center rounded-full bg-amber-300 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       POST - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/task/
+                    </a>https://apitaskmaster.vercel.app/api/task/
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
                     {`
@@ -4587,11 +4497,10 @@ const BlogSidebarPage = () => {
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/task/"
                       className="inline-flex items-center justify-center rounded-full bg-amber-300 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       POST - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/task/
+                    </a>https://apitaskmaster.vercel.app/api/task/
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
@@ -4602,8 +4511,6 @@ const BlogSidebarPage = () => {
   `}
 
                     </pre>
-                    
-                    
 
                     <span className="absolute left-0 top-0 z-[-1]">
                       <svg
@@ -4752,11 +4659,10 @@ const BlogSidebarPage = () => {
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/task/"
                       className="inline-flex items-center justify-center rounded-full bg-amber-300 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       POST - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/task/
+                    </a>https://apitaskmaster.vercel.app/api/task/
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
@@ -4765,8 +4671,6 @@ const BlogSidebarPage = () => {
     }
   `}
                     </pre>
-                    
-                    
 
                     <span className="absolute left-0 top-0 z-[-1]">
                       <svg
@@ -4915,11 +4819,10 @@ const BlogSidebarPage = () => {
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/task/"
                       className="inline-flex items-center justify-center rounded-full bg-amber-300 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       POST - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/task/
+                    </a>https://apitaskmaster.vercel.app/api/task/
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
@@ -5081,11 +4984,10 @@ const BlogSidebarPage = () => {
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-white dark:text-whitblcsk sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/task/"
                       className="inline-flex items-center justify-center rounded-full bg-blue-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       PUT - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/task/:taskId
+                    </a>https://apitaskmaster.vercel.app/api/task/
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
                     {`
@@ -5252,11 +5154,10 @@ const BlogSidebarPage = () => {
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/task/"
                       className="inline-flex items-center justify-center rounded-full bg-blue-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       PUT - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/task/
+                    </a>https://apitaskmaster.vercel.app/api/task/
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
@@ -5415,11 +5316,10 @@ const BlogSidebarPage = () => {
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/task/"
                       className="inline-flex items-center justify-center rounded-full bg-blue-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       PUT - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/task/:taskId
+                    </a>https://apitaskmaster.vercel.app/api/task/taskId
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
@@ -5575,11 +5475,10 @@ const BlogSidebarPage = () => {
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/task/"
                       className="inline-flex items-center justify-center rounded-full bg-blue-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       PUT - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/task/:taskId
+                    </a>https://apitaskmaster.vercel.app/api/task/taskId
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
@@ -5735,11 +5634,10 @@ const BlogSidebarPage = () => {
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/task/"
                       className="inline-flex items-center justify-center rounded-full bg-blue-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       PUT - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/task/:taskId
+                    </a>https://apitaskmaster.vercel.app/api/task/taskId
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
@@ -5899,11 +5797,10 @@ const BlogSidebarPage = () => {
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/task/"
                       className="inline-flex items-center justify-center rounded-full bg-blue-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       PUT - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/task/:taskId
+                    </a>https://apitaskmaster.vercel.app/api/task/:taskId
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
@@ -6066,11 +5963,10 @@ const BlogSidebarPage = () => {
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-white dark:text-whitblcsk sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/task/"
                       className="inline-flex items-center justify-center rounded-full bg-red-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       DELETE - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/task/:taskId
+                    </a>https://apitaskmaster.vercel.app/api/task/:taskId
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
                     {`
@@ -6228,11 +6124,10 @@ const BlogSidebarPage = () => {
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/task/"
                       className="inline-flex items-center justify-center rounded-full bg-red-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       DELETE - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/task/:taskId
+                    </a>https://apitaskmaster.vercel.app/api/task/:taskId
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
@@ -6389,11 +6284,10 @@ const BlogSidebarPage = () => {
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/task/"
                       className="inline-flex items-center justify-center rounded-full bg-red-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       DELETE - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/task/:taskId
+                    </a>https://apitaskmaster.vercel.app/api/task/:taskId
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
@@ -6549,11 +6443,10 @@ const BlogSidebarPage = () => {
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/task/"
                       className="inline-flex items-center justify-center rounded-full bg-red-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       DELETE - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/task/:taskId
+                    </a>https://apitaskmaster.vercel.app/api/task/:taskId
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
@@ -6709,11 +6602,10 @@ const BlogSidebarPage = () => {
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/task/"
                       className="inline-flex items-center justify-center rounded-full bg-red-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       DELETE - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/task/:taskId
+                    </a>https://apitaskmaster.vercel.app/api/task/:taskId
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
@@ -6870,11 +6762,10 @@ const BlogSidebarPage = () => {
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:px-4 xl:px-5 py-5 ">
                   <code className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                   <a
-                      href="https://api-rest-cyan.vercel.app/api/task/"
                       className="inline-flex items-center justify-center rounded-full bg-red-500 px-4 py-2 text-sm font-semibold text-white mr-5"
                     >
                       DELETE - Taste
-                    </a>https://api-rest-cyan.vercel.app/api/task/:taskId
+                    </a>https://apitaskmaster.vercel.app/api/task/:taskId
                   </code>
                     <pre className="text-left text-base font-medium italic text-body-color">
   {`
