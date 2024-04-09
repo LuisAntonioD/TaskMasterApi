@@ -20,13 +20,13 @@ const BlogSidebarPage = () => {
           <div className="-mx-4 flex flex-wrap">
             <div className="w-full px-4 lg:w-12/12">
               <div>
-                <h1 className="text-3xl font-bold leading-tight">Introducción</h1>
+                <h1 className="text-3xl font-bold leading-tight">Introduction</h1>
                 <p>
-                  Esta documentación te ayudará a familiarizarte con los recursos de taskMasterApi y te mostrará cómo
+                  This documentation will help you get familiar with the taskMasterApi resources and show you how
                   
                 </p>
 
-                <p>realizar diferentes consultas, para que puedas aprovecharla al máximo.</p>
+                <p>make different queries, so that you can make the most of it.</p>
                 
               <h1 className=" mt-20 mb-4 border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10"></h1>
                 <h1 className="mt-5 mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight flex justify-center items-center border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
