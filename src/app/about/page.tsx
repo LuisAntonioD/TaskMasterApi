@@ -15,8 +15,8 @@ const AboutPage = () => {
   return (
     <>
       <Breadcrumb
-        pageName="Como usar nuestra api"
-        description="taskMasterApi se puede utilizar con cualquier tipo de proyecto que necesite tareas y usuarios en formato JSON. ¡Puedes usar los ejemplos a continuación para comprobar cómo funciona taskMasterApi y siéntete libre de disfrutarlo en tus increíbles proyectos!"
+        pageName="How to use our API"
+        description="taskMasterApi can be used with any type of project that needs tasks and users in JSON format. You can use the examples below to check how the taskMasterApi works and feel free to enjoy it in your awesome projects!"
       />
       <BlogSidebarPage />
 
